@@ -4,3 +4,4 @@ ARTURO RONCALLA ANDIA |
 JOSEPH MENESES CHAVEZ |
 ALVARO GIL 
 ![Logo](logo.jpeg)
+<img src="logo.jpeg" width="150">
