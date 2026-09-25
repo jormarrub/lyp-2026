@@ -4,5 +4,5 @@ ARTURO RONCALLA ANDIA |
 JOSEPH MENESES CHAVEZ |
 ALVARO GIL 
 <p align="center">
-  <img src="firefly.png" width="350">
+  <img src="logo.jpeg" width="350">
 </p>
