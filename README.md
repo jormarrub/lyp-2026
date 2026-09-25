@@ -3,4 +3,6 @@ JORGE MARISCAL RUBIALES |
 ARTURO RONCALLA ANDIA |
 JOSEPH MENESES CHAVEZ |
 ALVARO GIL 
-<img src="logo.jpeg" width="400">
+<p align="center">
+  <img src="logo.jpeg" width="350">
+</p>
